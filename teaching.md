@@ -4,8 +4,8 @@
 
 <table border="0">
  <tr>
-   <td>PS3238 International Political Economy</td>
-   <td>Fall 2019, Summer 2020, Fall 2020, Summer 2021</td>
+   <td>Introduction to International Relations</td>
+   <td>Fall 2021, Spring 2022, Summer 2022</td>
  
  </tr>
 </table>
