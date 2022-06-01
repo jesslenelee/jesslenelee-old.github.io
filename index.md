@@ -2,28 +2,7 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+I am a Ph.D. student at the University of Toronto. My research interests are in the subfields of International Relations and International Political Economy. My research is motivated by the central question: how do rising powers affect global economic governance? I am particularly interested in examining how rising powers’ international economic engagement in the areas of development finance and trade supports or challenges the rules, norms, and institutions of existing global economic governance. I explore these theoretical puzzles through empirical research on the rise of China. My current projects revolve around the Asian Infrastructure Investment Bank and the Belt and Road Initiative.
 
 ---
 
@@ -31,5 +10,7 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+# <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
+ <p><small>Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+ #Hosted on GitHub Pages &mdash; 
