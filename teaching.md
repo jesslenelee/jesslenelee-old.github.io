@@ -8,24 +8,38 @@
  
  </tr>
  <tr>
-
-    <td></td>
       <td>PS3257 Political Inquiry</td>
       <td>Spring 2021</td>
+ </tr>
+ <tr>
       <td>PS2248 Chinese Politics </td>
       <td>Spring 2019, Fall 2019, Fall 2020</td>
+ </tr>
+ <tr>
       <td>PS2244 Public Administration in Singapore</td>
       <td>Spring 2020</td>
+   </tr>
+ <tr>
       <td>PS3237 Women and Politics</td>
       <td>Spring 2020</td>
+   </tr>
+ <tr>
       <td>GL2102 Origins of the Modern World</td>
         <td>Spring 2020</td>
+   </tr>
+ <tr>
         <td>PS1101 Introduction to Politics</td>
         <td>Fall 2018, Fall 2019</td>
+   </tr>
+ <tr>
         <td>PS2245 Southeast Asian Politics</td>      
   <td>Spring 2019</td>
+   </tr>
+ <tr>
     <td>PS3240 International Security </td>
     <td>Spring 2019</td>
+   </tr>
+ <tr>
     <td>GL1101 Global Issues</td>
       <td>Fall 2018</td>
  
