@@ -4,8 +4,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   Department of Political Science
   University of Toronto
   <br><br>
-  <a href="https://jesslenelee.github.io/research">Research</a> 
-  <a href="https://jesslenelee.github.io/teaching">Research</a> 
+  <a href="https://jesslenelee.github.io/research">Research</a>  <br>
+  <a href="https://jesslenelee.github.io/teaching">Teaching</a> 
   
 theme: jekyll-theme-minimal
 google_analytics:  # your Google Analytics tracking ID here
