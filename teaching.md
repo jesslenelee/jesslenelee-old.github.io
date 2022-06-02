@@ -30,12 +30,12 @@ I independently developed and implemented a course that aims to equip students w
 
 The most recent iteration was completed in January 2022. 
 
-Course structure
-Lesson 1: Basic syntax in R and exploring data
-Lesson 2: Data cleaning and data transformation 
-Lesson 3: Basic syntax of ggplot2 
-Lesson 4: Aesthetics, attributes, and faceting in ggplot2
-Lesson 5: Enhancing visualizations in ggplot2
+Course structure:<br>
+Lesson 1: Basic syntax in R and exploring data<br>
+Lesson 2: Data cleaning and data transformation <br>
+Lesson 3: Basic syntax of ggplot2 <br>
+Lesson 4: Aesthetics, attributes, and faceting in ggplot2<br>
+Lesson 5: Enhancing visualizations in ggplot2<br>
 
 The full syllabus is available <a href="https://www.dropbox.com/s/lfwr5j4nuyzabe9/Introduction%20to%20Data%20Analysis%20and%20Visualisation%20-%20updated1September2021.pdf?dl=0">here</a>. 
 
