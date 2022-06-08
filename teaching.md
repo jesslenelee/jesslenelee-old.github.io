@@ -3,6 +3,7 @@
 
 <ul>
 <li>Introduction to International Relations (Fall 2021, Spring 2022, Summer 2022)</li>
+<li> Introduction to Quantitative Reasoning I (Fall 2022) </li>
 </ul>
  
 **National University of Singapore (Teaching Assistant)**
@@ -22,7 +23,7 @@
 
 **Teaching Awards**<br>
 
-Awarded the Graduate Students’ Teaching Award for 2 of 2 eligible semesters (Academic Year 2020-2021)
+Awarded the National University of Singapore Graduate Students’ Teaching Award for 2 of 2 eligible semesters (Academic Year 2020-2021)
 
 **“Introduction to Data Analysis and Visualization in R” Workshop**
 
