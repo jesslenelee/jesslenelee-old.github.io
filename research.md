@@ -2,7 +2,7 @@
 International Relations, International Political Economy, Rising Powers, Global Governance, International Institutions, Politics of Trade, Development Finance
 
 **Skills** <br>
-R (including network analysis, text analysis, machine learning)
+Network analysis, text analysis
 
 **Master’s Thesis** <br>
 Deep Preferential Trade Agreements and Global Trade: A Network Analysis Approach (Supervisor: A/P Soo Yeon Kim)
