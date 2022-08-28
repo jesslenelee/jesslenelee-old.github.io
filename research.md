@@ -1,8 +1,6 @@
 **Research Interests** <br>
-International Relations, International Political Economy, Rising Powers, Global Governance, International Institutions, Politics of Trade, Development Finance
-
-**Skills** <br>
-Network analysis, text analysis
+International Political Economy: International Institutions, Politics of Trade, Rising Powers 
+Research Methods: Quantitative Methods, Network Analysis
 
 **Master’s Thesis** <br>
 Deep Preferential Trade Agreements and Global Trade: A Network Analysis Approach (Supervisor: A/P Soo Yeon Kim)
